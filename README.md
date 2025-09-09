@@ -19,7 +19,9 @@
 
 Here are some of my key projects. More will be added soon!  
 
-- [📊 Sales Data Analysis (SQL + Power BI)](link-to-repo)  
+- [📊 Sales Data Analysis (SQL + Power BI)](## 🚀 Featured Projects
+
+- [📈 Excel Dashboard for Business KPIs](https://github.com/suryawanshirushikesh/excel-dashboard-kpis)  
 - [🐍 Python Data Cleaning & Visualization](link-to-repo)  
 - [📈 Excel Dashboard for Business KPIs](link-to-repo)  
 - [🔎 Customer Insights Analysis](link-to-repo)
