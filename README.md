@@ -13,6 +13,18 @@
 ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=flat-square&logo=matplotlib&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/-Seaborn-000000?style=flat-square&logo)
+
+
+## 🚀 Featured Projects
+
+Here are some of my key projects. More will be added soon!  
+
+- [📊 Sales Data Analysis (SQL + Power BI)](link-to-repo)  
+- [🐍 Python Data Cleaning & Visualization](link-to-repo)  
+- [📈 Excel Dashboard for Business KPIs](link-to-repo)  
+- [🔎 Customer Insights Analysis](link-to-repo)
+
+
 ## Contact Me 
 
 
