@@ -14,7 +14,13 @@ Turning raw data into meaningful insights, building dashboards, and analyzing pa
 ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=flat-square&logo=matplotlib&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/-Seaborn-000000?style=flat-square&logo)
-## Contact Me 👋
+## Contact Me 
+## 📬 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-LINKEDIN/) 
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/suryawanshirushikesh) 
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yourname@email.com)
+
 
 <!--
 **suryawanshirushikesh/suryawanshirushikesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
