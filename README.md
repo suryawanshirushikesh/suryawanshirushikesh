@@ -25,7 +25,7 @@ Here are some of my key projects. More will be added soon!
 - [🔎 Customer Insights Analysis](link-to-repo)
 
 
-## Contact Me 
+## 📬 Contact Me 
 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suryawanshirushikesh) 
