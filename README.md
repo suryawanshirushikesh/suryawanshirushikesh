@@ -15,6 +15,8 @@
 ![Seaborn](https://img.shields.io/badge/-Seaborn-000000?style=flat-square&logo)
 
 
+
+
 ## 🚀 Featured Projects
 
 Here are some of my key projects. More will be added soon!  
@@ -23,6 +25,8 @@ Here are some of my key projects. More will be added soon!
 - [🐍 Python Data Cleaning & Visualization](link-to-repo)  
 - [📈 Excel Dashboard for Business KPIs](link-to-repo)  
 - [🔎 Customer Insights Analysis](link-to-repo)
+
+
 
 
 ## 📬 Contact Me 
