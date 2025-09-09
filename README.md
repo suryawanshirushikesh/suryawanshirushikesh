@@ -1,6 +1,6 @@
 # Hi, I'm Rushikesh 👋
 
-🚀 Official portfolio repository – Data Analytics projects, skills, and contact links all in one place.
+🚀This is my Official portfolio repository – Data Analytics projects, skills, and contact links all in one place.
 ---
 
 ## 🛠️ Tech Stack
