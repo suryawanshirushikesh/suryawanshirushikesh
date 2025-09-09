@@ -1,7 +1,6 @@
 # Hi, I'm Rushikesh 👋
 
-Turning raw data into meaningful insights, building dashboards, and analyzing patterns.
-
+🚀 Official portfolio repository – Data Analytics projects, skills, and contact links all in one place.
 ---
 
 ## 🛠️ Tech Stack
