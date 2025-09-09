@@ -14,7 +14,7 @@ Turning raw data into meaningful insights, building dashboards, and analyzing pa
 ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=flat-square&logo=matplotlib&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/-Seaborn-000000?style=flat-square&logo)
-## Hi there 👋
+## Contact Me 👋
 
 <!--
 **suryawanshirushikesh/suryawanshirushikesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
