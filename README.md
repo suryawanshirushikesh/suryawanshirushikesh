@@ -1,4 +1,7 @@
-# Hi, I'm Rushikesh 👋
+Hi, I'm Rushikesh 👋  
+A Data Analyst with experience in Python, SQL, and Excel and Power Bi  
+I build analytics projects that transform raw data into actionable business insights.
+
 
 🚀This is my Official portfolio repository – Data Analytics projects, skills, and contact links all in one place.
 ---
