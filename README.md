@@ -23,7 +23,7 @@ Here are some of my key projects. More will be added soon!
 
 - [ Excel Dashboard for Business KPIs](https://github.com/suryawanshirushikesh/excel-dashboard-kpis)  
 - [FinTech Analytics Database (SQL Project)](https://github.com/suryawanshirushikesh/SQL-project)
-- [ Excel Dashboard for Business KPIs](link-to-repo)  
+- [ Stock market analysis using python](https://github.com/suryawanshirushikesh/Stock-Market-Analysis-using-python))  
 - [ Customer Insights Analysis](link-to-repo)
 
 
