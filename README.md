@@ -27,7 +27,7 @@ Here are some of my key projects. More will be added soon!
 - [ Excel Dashboard for Business KPIs](https://github.com/suryawanshirushikesh/excel-dashboard-kpis)  
 - [FinTech Analytics Database (SQL Project)](https://github.com/suryawanshirushikesh/SQL-project)
 - [ Stock market analysis using python](https://github.com/suryawanshirushikesh/Stock-Market-Analysis-using-python)
-- [ Retail Sales End To End Data Pipeline]((https://github.com/suryawanshirushikesh/Retail-Sales-ETL-BI-Pipeline/tree/main))
+- [ Retail Sales End To End Data Pipeline](https://github.com/suryawanshirushikesh/Retail-Sales-ETL-BI-Pipeline/tree/main)
 
 
 
