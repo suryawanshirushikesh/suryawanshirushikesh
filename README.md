@@ -1,9 +1,10 @@
-Hi, I'm Rushikesh 👋  
-A Data Analyst with experience in Python, SQL, and Excel and Power Bi  
-I build analytics projects that transform raw data into actionable business insights.
+# Hi, I'm Rushikesh 👋  
 
+A Data Analyst with experience in **Python, SQL, Excel, and Power BI**.  
+One of the main Project which i built **end-to-end analytics projects** that transform raw data into actionable business insights.
 
-🚀This is my Official portfolio repository – Data Analytics projects, skills, and contact links all in one place.
+🚀 This is my **Official Portfolio Repository** – showcasing Data Analytics projects, pipelines, dashboards, and contact links in one place.
+
 ---
 
 ## 🛠️ Tech Stack
@@ -15,25 +16,30 @@ I build analytics projects that transform raw data into actionable business insi
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=flat-square&logo=matplotlib&logoColor=white)
-![Seaborn](https://img.shields.io/badge/-Seaborn-000000?style=flat-square&logo)
+![Seaborn](https://img.shields.io/badge/-Seaborn-000000?style=flat-square&logo=seaborn)
 
-
-
+---
 
 ## 🚀 Featured Projects
 
-Here are some of my key projects. More will be added soon!  
+Showcasing projects in **full-stack workflow order**: SQL → Python → BI → Excel
 
-- [ Excel Dashboard for Business KPIs](https://github.com/suryawanshirushikesh/excel-dashboard-kpis)  
-- [FinTech Analytics Database (SQL Project)](https://github.com/suryawanshirushikesh/SQL-project)
-- [ Stock market analysis using python](https://github.com/suryawanshirushikesh/Stock-Market-Analysis-using-python)
-- [ Retail Sales End To End Data Pipeline](https://github.com/suryawanshirushikesh/Retail-Sales-ETL-BI-Pipeline/tree/main)
+- [**Retail Sales End-to-End Data Pipeline**](https://github.com/suryawanshirushikesh/Retail-Sales-ETL-BI-Pipeline/tree/main) – Full-stack pipeline: automated ETL (Python), SQL tables & views, and **Power BI dashboard**.  
+- [**FinTech Analytics Database (SQL Project)**](https://github.com/suryawanshirushikesh/SQL-project) – SQL database project with reporting views for financial analytics.  
+- [**Excel Dashboard for Business KPIs**](https://github.com/suryawanshirushikesh/excel-dashboard-kpis) – Interactive Excel dashboards for business KPI visualization.  
+- [**Stock Market Analysis using Python**](https://github.com/suryawanshirushikesh/Stock-Market-Analysis-using-python) – Python-based stock market trend analysis and visualization.  
 
+---
 
+## 🖼 Retail Sales Dashboard
 
+![Retail Sales Dashboard](Power%20BI%20Dashboard/Dashboardd.png)
 
-## 📬 Contact Me 
+> Main dashboard showing core KPIs, revenue & profit trends, product performance, and customer segment insights.
 
+---
+
+## 📬 Contact Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suryawanshirushikesh) 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/suryawanshirushikesh) 
