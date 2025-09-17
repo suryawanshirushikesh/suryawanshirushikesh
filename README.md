@@ -33,7 +33,7 @@ Showcasing projects in **full-stack workflow order**: SQL → Python → BI → 
 
 ## 🖼 Retail Sales Dashboard
 
-![Retail Sales Dashboard](Power%20BI%20Dashboard/Dashboardd.png)
+![Retail Sales Dashboard](Retail-Sales-ETL-BI_Pipeline/Power%20BI%20Dashboard/Dashboardd.png)
 
 > Main dashboard showing core KPIs, revenue & profit trends, product performance, and customer segment insights.
 
